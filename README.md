@@ -6,8 +6,8 @@
 
 POSIÇÃO  | INFORMAÇÃO
 -------- | ---------- 
-01       | Matplotlib
-02       | NumPy
+01       | NumPy
+02       | Matplotlib
 03       | Pandas
 04       | Seaborn
 
