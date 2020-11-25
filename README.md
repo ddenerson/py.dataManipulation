@@ -4,7 +4,7 @@
 
 ## Essential
 
-POSIÇÃO  | INFORMAÇÃO
+POSITION|INFORMATION 
 -------- | ---------- 
 01       | NumPy
 02       | Matplotlib
@@ -13,12 +13,12 @@ POSIÇÃO  | INFORMAÇÃO
 
 ## Python Math
 
-POSIÇÃO  | INFORMAÇÃO
+POSITION|INFORMATION 
 -------- | ---------- 
 01       | Time value Of money
 
 # Projects 
 
-POSIÇÃO  | INFORMAÇÃO
+POSITION|INFORMATION 
 -------- | ---------- 
 01       | 911 Calls Data Capstone
