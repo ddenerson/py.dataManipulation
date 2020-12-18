@@ -7,9 +7,9 @@
 POSITION|INFORMATION 
 -------- | ---------- 
 01       | <a href="https://github.com/ddenerson/py.dataManipulation/tree/master/essential/01-%20NumPy">NumPy<a/>
-02       | Matplotlib
-03       | Pandas
-04       | Seaborn
+02       | <a href="https://github.com/ddenerson/py.dataManipulation/tree/master/essential/02-%20Matplotlib">Matplotlib<a/>
+03       | <a href="https://github.com/ddenerson/py.dataManipulation/tree/master/essential/03-%20Pandas">Pandas<a/>
+04       | <a href="https://github.com/ddenerson/py.dataManipulation/tree/master/essential/04-%20Seaborn">Seaborn
 
 ## Python Math
 
