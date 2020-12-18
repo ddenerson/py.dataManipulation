@@ -6,7 +6,7 @@
 
 POSITION|INFORMATION 
 -------- | ---------- 
-01       | NumPy
+01       | <a href="https://github.com/ddenerson/py.dataManipulation/tree/master/essential/01-%20NumPy">NumPy<a/>
 02       | Matplotlib
 03       | Pandas
 04       | Seaborn
