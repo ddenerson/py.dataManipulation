@@ -15,10 +15,10 @@ POSITION|INFORMATION
 
 POSITION|INFORMATION 
 -------- | ---------- 
-01       | Time value Of money
+01       | <a href="https://github.com/ddenerson/py.dataManipulation/tree/master/essential/04-%20Seaborn">Time value Of money<a/>
 
 # Projects 
 
 POSITION|INFORMATION 
 -------- | ---------- 
-01       | 911 Calls Data Capstone
+01       | <a href="https://github.com/ddenerson/py.dataManipulation/tree/master/projects">911 Calls Data Capstone<a/>
