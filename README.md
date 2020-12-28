@@ -15,7 +15,7 @@ POSITION|INFORMATION
 
 POSITION|INFORMATION 
 -------- | ---------- 
-01       | <a href="https://github.com/ddenerson/py.dataManipulation/tree/master/essential/04-%20Seaborn">Time value Of money<a/>
+01       | <a href="https://github.com/ddenerson/py.dataManipulation/tree/master/py.math/Time%20value%20Of%20money">Time value Of money<a/>
 
 # Projects 
 
