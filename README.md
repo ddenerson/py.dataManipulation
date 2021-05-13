@@ -21,4 +21,4 @@ POSITION|INFORMATION
 
 POSITION|INFORMATION 
 -------- | ---------- 
-01       | <a href="https://github.com/ddenerson/py.dataManipulation/tree/master/projects">911 Calls Data Capstone<a/>
+01       | <a href="https://github.com/ddenerson/py.dataManipulation/blob/master/projects/01-%20911%20Calls%20Data%20Capstone%20Project.ipynb">911 Calls Data Capstone<a/>
