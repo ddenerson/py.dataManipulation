@@ -22,3 +22,4 @@ POSITION|INFORMATION
 POSITION|INFORMATION 
 -------- | ---------- 
 01       | <a href="https://github.com/ddenerson/py.dataManipulation/blob/master/projects/01-%20911%20Calls%20Data%20Capstone%20Project.ipynb">911 Calls Data Capstone<a/>
+02       | <a href="https://github.com/ddenerson/py.dataManipulation/blob/master/projects/02%20-%20Challenge%20Context.ipynb">Challenge Context - Kyros Data Engineer Internship<a/>  
